@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+section {
+  width: 100%;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-bottom: 8px;
+  background-color: rgb(24, 39, 119);
+  padding: 8px 16px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+a:hover {
+  background-color: #192241;
+}
+
+#rules-index {
+  margin-bottom: 32px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
