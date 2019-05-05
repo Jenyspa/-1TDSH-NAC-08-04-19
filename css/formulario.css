@@ -1,0 +1,70 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  text-align: center;
+}
+
+form {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: left;
+}
+
+input,
+select {
+  border: 1px solid #333;
+  background-color: #ddd;
+}
+
+select {
+  border-radius: 5px;
+  width: 100%;
+}
+
+header {
+  color: darkgrey;
+}
+
+button {
+  padding: 10px;
+}
+
+.button {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.campos {
+  margin-bottom: 2%;
+}
+
+.campos input {
+  width: 100%;
+}
+
+.radio {
+  margin-bottom: 2%;
+}
+
+.lateral {
+  float: left;
+}
+
+.espaco {
+  margin-left: 20%;
+}
+
+.tamanho {
+  width: 50%;
+}
+
+.tamanho2 {
+  width: 40%;
+  margin-right: 10%;
+}
+
+.camposTotal {
+  margin-right: 5%;
+}
